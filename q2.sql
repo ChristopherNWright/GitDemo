@@ -1,2 +1,3 @@
-SELECT COUNT(*)
-FROM table;
+SELECT *
+FROM table
+LIMIT 5;
